@@ -10,6 +10,7 @@
 - Currently working as a TX Network Analyst at BEHIVE 📡
 - Summer Intern at BTG Pactual 💵
 - [Resume (in portuguese)](https://github.com/luizamonroe/LuizaMonroe/blob/main/Curriculo_LuizaMonroePadua2.pdf) 📄 
+- Resume (in english)(developing) 
 
 <div align="center" style="display: inline_block"><br>
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>
