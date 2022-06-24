@@ -21,5 +21,3 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40">
 </div>
-
-![Curriculo_LuizaMonroePadua2](https://user-images.githubusercontent.com/76191328/175605418-9b8eea29-84ce-4f22-acd1-966aadf16de8.png)
