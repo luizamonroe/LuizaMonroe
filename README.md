@@ -7,8 +7,7 @@
 
 - South American 🇧🇷
 - Computer Engineering Student at [Inatel](https://inatel.br/home/) 🖥️
-- Currently working as a TX Network Analyst at BEHIVE 📡
-- Summer Intern at BTG Pactual 💵
+- Currently working as inter quality assurance at BTG Pactual 💵
 - [Resume (in portuguese)](https://github.com/luizamonroe/LuizaMonroe/blob/main/Curriculo_LuizaMonroePadua2.pdf) 📄 
 - Resume (in english)(developing) 
 
