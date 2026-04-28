@@ -7,9 +7,7 @@
 
 - South American 🇧🇷
 - Computer Engineer at [Inatel](https://inatel.br/home/) 🖥️
-- Currently working as an Associate at PwC(PricewaterhouseCoopers) 💵
-- [Curriculo](https://github.com/luizamonroe/LuizaMonroe/blob/main/Curriculo_LuizaMonroePadua2.pdf) 📄 
-- Resume (developing) 
+- Currently working as Quality Assurance Analyst at Sem Parar Empresas 💵
 
 <div align="center" style="display: inline_block"><br>
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" title="Node" width="40" height="40"/>
